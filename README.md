@@ -1,11 +1,11 @@
-#Name app
+## Name app
 CookBook Blog. 
 
-## Description
+### Description
 Create web app with using microframework Flask. In this application we will be able to create your accounts
  and add new posts.
  
-##Installation
+## Installation
 Use the Terminal in PyCharm
 ```bash
 pip install flask
